@@ -21,6 +21,6 @@ CSS/HTML/XML                     -------------------------   01.17 %
 <!--END_SECTION:waka-->
 
 - 🔭 I am a skilled software developer with experience in Go, C++,TypeScript and Python. I have completed internships at Microsoft and ByteDance (TikTok) as a software engineer, where I gained experience in web development, distributed systems, and parallel computing.
-- 
+
 - 🎉 I'm pursuing my Master's Degree at [UIUC](https://illinois.edu/) in CS from 2022 fall. I got my Bachelor's Degree also from [UIUC](https://illinois.edu/)
 
